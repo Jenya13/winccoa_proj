@@ -1,0 +1,17 @@
+[general]
+pvss_path = "C:/Siemens/Automation/WinCC_OA/3.20"
+proj_path = "C:/Wincc_oa_projects/git_test"
+proj_version = "3.20"
+useNGA = 1
+useSQLite = 1
+langs = "en_US.utf8"
+
+userName = "root"
+password = ""
+
+
+[ui]
+defaultFont = "Noto Sans"
+defaultPanelFormat = "XML"
+versionControl = "git"
+
